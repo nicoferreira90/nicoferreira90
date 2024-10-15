@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicolás
-- 👀 I’m interested in Python, WebDev, Data Science
+- 👀 I’m interested in Python, Web Development, Data Science
 - 🌱 I’m currently learning Django, Seaborn
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
