@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicolás
 - 👀 I’m interested in Python, Web Development, Data Science
-- 🌱 I’m currently learning HTMX, Django, Docker
+- 🌱 I’m currently learning HTMX, Alpine.js, Django, Docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
