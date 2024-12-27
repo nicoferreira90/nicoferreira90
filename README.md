@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nicolás. I'm a Python and Django developer.
-- 👀 I’m interested in Python, Web Development, Data Science
-- 🌱 I’m currently learning HTMX, Alpine.js.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested Django and HTMX
+- 🌱 I’m currently learning Alpine.js and Wagtail CMS
+- 💞️ I’m looking to collaborate on anything Django related.
 - 📫 How to reach me ...
 
 <!---
