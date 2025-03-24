@@ -2,7 +2,7 @@ Portfolio page: https://nicoferreira90.github.io/
 
 - 👋 Hi, I’m Nicolás. I'm a Python and Django developer.
 - 👀 I’m interested in working with Django and Wagtail
-- 🌱 I’m currently learning Alpine.js and HTMX
+- 🌱 I’m currently learning FastAPI
 - 💞️ I’m looking to collaborate on anything Django related.
 - 📫 How to reach me: nicolasalfonsoferreira@gmail.com
 
