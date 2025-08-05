@@ -1,4 +1,3 @@
-Portfolio page: https://nicoferreira90.github.io/
 
 - 👋 Hi, I’m Nicolás. I'm a Python developer.
 - 👀 I’m interested in working with Django and Wagtail
